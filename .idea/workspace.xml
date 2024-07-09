@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3571c84-a37f-4210-b262-452697711fe7" name="Changes" comment="Criado repositório com arquivos Python">
-      <change afterPath="$PROJECT_DIR$/Atividade6/questao3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade6/questao4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade6/questão2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade6/questão3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/EBT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/alterandoarrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/alterandoarraysreshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/arquivoscsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/arquivoteste.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/coordenadas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/dados.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/example2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/exercicio06.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/exercicio06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/funçõesmatemáticas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/inicializaçãoarrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/numerosaleatorios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/propriedades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/revisão.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,68 +54,73 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.ArquivosDelimitadosCSV.executor": "Run",
-    "Python.ArquivosEscrita.executor": "Run",
-    "Python.ArquivosLeitura.executor": "Run",
-    "Python.Atividade3.executor": "Run",
-    "Python.AtividadeCursoCNJ.executor": "Run",
-    "Python.Atvidade2.executor": "Run",
-    "Python.Aula01.executor": "Run",
-    "Python.Aula2_LendoDoTeclado.executor": "Run",
-    "Python.ContRegressivaWhile.executor": "Run",
-    "Python.Dicionários.executor": "Run",
-    "Python.FuncCopiaEreferências.executor": "Run",
-    "Python.FuncõesComReturn.executor": "Run",
-    "Python.Funções.executor": "Run",
-    "Python.IfEleitor.executor": "Run",
-    "Python.Importacoes.executor": "Run",
-    "Python.Listas.executor": "Run",
-    "Python.Listas2.executor": "Run",
-    "Python.Listas3.executor": "Run",
-    "Python.Listas4.executor": "Run",
-    "Python.Matrizes.executor": "Run",
-    "Python.Tuplas.executor": "Run",
-    "Python.UsandoImportCSV.executor": "Run",
-    "Python.__init__ (1).executor": "Run",
-    "Python.__init__ (2).executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.alterandoarrays.executor": "Run",
-    "Python.alterandoarraysreshape.executor": "Run",
-    "Python.arquivoscsv.executor": "Run",
-    "Python.contador_de_vogais (1).executor": "Run",
-    "Python.contador_de_vogasi.executor": "Run",
-    "Python.example.executor": "Run",
-    "Python.example2.executor": "Run",
-    "Python.exercicio06.executor": "Run",
-    "Python.funçõesmatemáticas.executor": "Run",
-    "Python.inicializaçãoarrays.executor": "Run",
-    "Python.matriz.executor": "Run",
-    "Python.numerosaleatorios.executor": "Run",
-    "Python.propriedades.executor": "Run",
-    "Python.questao4.executor": "Run",
-    "Python.questão1.executor": "Run",
-    "Python.questão2.executor": "Run",
-    "Python.questão3.executor": "Run",
-    "Python.questão4.executor": "Run",
-    "Python.questão5.executor": "Run",
-    "Python.questão6.executor": "Run",
-    "Python.questão7.executor": "Run",
-    "Python.revisão.executor": "Run",
-    "Python.strings.executor": "Run",
-    "Python.strings2.executor": "Run",
-    "Python.teste02.executor": "Run",
-    "Python.teste03.executor": "Run",
-    "Python.teste04.executor": "Run",
-    "Python.teste05.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/teljp/PycharmProjects/PAD CNJ"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ArquivosDelimitadosCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArquivosEscrita.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArquivosLeitura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atividade3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AtividadeCursoCNJ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atvidade2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula2_LendoDoTeclado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ContRegressivaWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dicionários.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FuncCopiaEreferências.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FuncõesComReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funções.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfEleitor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Importacoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrizes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UsandoImportCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alterandoarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alterandoarraysreshape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arquivoscsv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador_de_vogais (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador_de_vogasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estatisticabasica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funçõesmatemáticas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inicializaçãoarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numerosaleatorios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ordenacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propriedades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questao4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.questão7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.where.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python312&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\teljp\PycharmProjects\PAD CNJ" />
@@ -110,8 +131,8 @@
       <recent name="C:\Users\teljp\PycharmProjects\PAD CNJ\Atividade5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.questao4">
-    <configuration name="alterandoarraysreshape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.where">
+    <configuration name="estatisticabasica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pad" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/alterandoarraysreshape.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/estatisticabasica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pad" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +167,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/exercicio06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/matplotlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ordenacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pad" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/ordenacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questão2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="where" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pad" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,33 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Atividade6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumPy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade6/questão2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="questão3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pad" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Atividade6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividade6/questão3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy/where.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.where" />
+        <item itemvalue="Python.matplotlib" />
+        <item itemvalue="Python.estatisticabasica" />
+        <item itemvalue="Python.ordenacao" />
         <item itemvalue="Python.questao4" />
-        <item itemvalue="Python.questão3" />
-        <item itemvalue="Python.questão2" />
-        <item itemvalue="Python.exercicio06" />
-        <item itemvalue="Python.alterandoarraysreshape" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719619331906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criado repositório com arquivos Python">
+      <option name="closed" value="true" />
+      <created>1719622748161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719622748161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -288,5 +317,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Criado repositório com arquivos Python" />
     <option name="LAST_COMMIT_MESSAGE" value="Criado repositório com arquivos Python" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
